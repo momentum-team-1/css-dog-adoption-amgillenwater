@@ -21,13 +21,21 @@ div.row{
 div.dogbox{
     float:left;
     padding: 10px;
-    max-width: 25%;
+    max-width: 30%;
 }
 
 img.dogpics{
     width: 70%;
 }
 
+td{
+    background-color:#008080;
+    color:#000000;
+    text-align: center;
+    border-radius:15px;
+    padding: 5px;
+
+}
 
 .footerbanner p{
     color: #ffffff;
@@ -54,9 +62,7 @@ img.dogpics{
     bottom: 0;
     display:inline;
     float:left;
-    text-align: center;
-    
-    
+    text-align: center; 
 }
 
 
