@@ -12,6 +12,31 @@ div.dogbox{
     padding: 10px;
     max-width: 25%;
 }
+div.dogboxtwo{
+    float:left;
+    padding: 10px;
+    max-width: 25%;
+}
+div.row{
+    display:block;
+}
+
+.footerbanner{
+    height: 200px;
+    width: 30%;
+    background-position: center;
+    display: inline-block;
+    
+}
+#donate{
+    background-image:url('starter_files/images/donate.jpg');
+}
+#volunteer{
+    background-image:url('starter_files/images/volunteer.jpg');
+}
+#location{
+    background-image:url('starter_files/images/location.png')
+}
 
 
 
