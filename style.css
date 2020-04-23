@@ -1,33 +1,35 @@
 body{
     font-family: Oswald;
 }
+header{
 
-img.dogpics{
-    width: 70%;
 }
 
+h1{
+
+}
+
+h2{
+
+}
+
+div.row{
+    display:block;
+    float:left;
+}
 
 div.dogbox{
     float:left;
     padding: 10px;
     max-width: 25%;
 }
-div.dogboxtwo{
-    float:left;
-    padding: 10px;
-    max-width: 25%;
-}
-div.row{
-    display:block;
+
+img.dogpics{
+    width: 70%;
 }
 
-.footerbanner{
-    height: 200px;
-    width: 30%;
-    background-position: center;
-    display: inline-block;
-    
-}
+
+
 #donate{
     background-image:url('starter_files/images/donate.jpg');
 }
@@ -36,6 +38,14 @@ div.row{
 }
 #location{
     background-image:url('starter_files/images/location.png')
+}
+.footerbanner{
+    height: 200px;
+    width: 30%;
+    background-position: center;
+    bottom: 0;
+    display:inline;
+    float:left;
 }
 
 
