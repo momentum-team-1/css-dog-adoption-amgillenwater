@@ -6,15 +6,11 @@ img.dogpics{
     width: 70%;
 }
 
-div.row{
-    display: block;
-}
 
 div.dogbox{
     float:left;
     padding: 10px;
     max-width: 25%;
-
 }
 
 
