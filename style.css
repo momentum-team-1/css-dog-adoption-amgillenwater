@@ -78,12 +78,15 @@ footer{
 }
 #donate{
     background-image:url('starter_files/images/donate.jpg');
+    background-size: cover;
 }
 #volunteer{
     background-image:url('starter_files/images/volunteer.jpg');
+    background-size: cover;
 }
 #location{
-    background-image:url('starter_files/images/location.png')
+    background-image:url('starter_files/images/location.png');
+    background-size: cover;
 }
 
 
