@@ -1,0 +1,99 @@
+body{
+    font-family: Oswald;
+
+}
+header{
+    display: block;
+    background-color:#1946A1;
+    color: #ffffff;
+    margin: 0px;
+    padding: 10px;
+}
+
+h1{
+    padding: 10px;
+}
+
+h2{
+    padding: 10px;
+}
+
+p {
+    padding: 10px;
+}
+
+div.cards{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+    flex: 1;
+}
+div.dogbox{
+    padding: 10px;
+    max-width: 30%;
+}
+
+img.dogpics{
+    width: 100%;
+}
+
+span{
+    background-color: #A3E7FC;
+    color:#000000;
+    border-radius:15px;
+    padding: 6px;
+    margin: 3px;
+    display: inline-flex;
+    flex-wrap: wrap;
+    width: fit-content;
+
+
+}
+
+footer{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+}
+.footerbanner{
+    height: 250px;
+    width: 33.33%;
+    background-position: center;
+    bottom: 0;
+    display:block;
+    text-align: center; 
+}
+.footerbanner p{
+    color: #ffffff;
+    background-color: rgba(140, 20, 252, .5);
+    font-size: 2em;
+    margin: 0px 0px;
+    padding: 0px;
+    height: inherit;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+
+}
+#donate{
+    background-image:url('starter_files/images/donate.jpg');
+    background-size: cover;
+}
+#volunteer{
+    background-image:url('starter_files/images/volunteer.jpg');
+    background-size: cover;
+}
+#location{
+    background-image:url('starter_files/images/location.png');
+    background-size: cover;
+}
+
+
+
+
+
+
+
+
+
